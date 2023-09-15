@@ -1,0 +1,35 @@
+Sistema de controle de festa infantil
+
+- Controle de aluguel
+- Saber informações sobre data que foi feito, valor e características sobre dados sobre o cliente
+- Informações sobre o tema da festa, pra quem é a festa, sexo da criança
+- Controlar as informações sobre itens de tema
+- Endereços descentralizados, pois tem o endereço do cliente e da festa, que não necessariamente são iguais
+
+
+
+Requisitos Funcionais: Obs.: O início do RF deve ser sempre verbo
+
+RF001 - manter o cliente 
+
+RF002 - gerenciar o tema de festa
+
+RF003 - gerenciar o item da festa
+
+RF004 - realizar a festa
+
+RF005 - manter o endereço
+
+
+
+Diagrama UML
+
+cliente - id, nome, celular - int, string, string
+
+festa - id, data, valor - int, date, float
+
+endereco - logradouro, numero, bairro - string, int, string
+
+tema - id, nome - int, string
+
+itemData - id, name, detalhe - int, string, string

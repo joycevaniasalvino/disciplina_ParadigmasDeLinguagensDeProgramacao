@@ -1,0 +1,28 @@
+Formas de representar algoritmos:
+
+1- descrição narrativa (falar o que será feito)
+
+-fazer a leitura de dois números
+
+-calcular a sua média
+
+2- Fluxograma (representar o fluxo do programa)
+
+foto
+
+3- Pseudocódigo
+
+Inicio 
+
+leia(N1,N2)
+
+med← (n1+n2)/2
+
+escreva(med)
+
+Fim
+
+4- Tabela verdade
+
+foto
+

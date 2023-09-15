@@ -1,0 +1,31 @@
+Exemplo de aula
+
+Requisitos funcionais
+
+001 gerenciar tarefas 
+
+002 gerenciar item_tarefa
+
+003 método: mover tarefas concluídas
+
+Diagrama de caso de uso
+
+foto
+
+Diagrama de classes
+
+foto
+
+Modelagem 
+
+foto e aquivo
+
+O que é pra fazer:
+
+fazer modelagem no br modelo
+
+gerar modelo logico
+
+gerar modelo fisico
+
+criar tabelas la em Postgres ou outro usando o codigo que foi gerado
